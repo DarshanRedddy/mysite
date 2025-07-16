@@ -17,7 +17,7 @@ This repository contains my featured projects and personal work that reflect my 
 ## 📌 Featured Projects
 
 - Task Manager — A Django-based web app to manage and track daily tasks.  
-- Medication Reminder App — A full-stack project using Django REST + React.  
+ 
 
 
 ---
