@@ -13,14 +13,8 @@ This repository contains my featured projects and personal work that reflect my 
 - Tools: Git, GitHub, AWS, PostgreSQL, Supabase  
 
 ---
-
-## 📌 Featured Projects
-
-- Task Manager — A Django-based web app to manage and track daily tasks.  
  
 
-
----
 
 
 Thanks for visiting!
