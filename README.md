@@ -16,5 +16,3 @@ This repository contains my featured projects and personal work that reflect my 
  
 
 
-
-Thanks for visiting!
